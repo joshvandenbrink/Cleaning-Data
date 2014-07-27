@@ -1,7 +1,8 @@
-Cleaning-Data
+##Cleaning-Data
 
 Josh Vandenbrink
-=============
+ 
+ 
 Course Project for Coursera Cleaning Data course
 
 The run_analysis.R code presented here loads the Samsung Human Activity Recognition Using Smartphones Dataset
