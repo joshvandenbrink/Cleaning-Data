@@ -1,0 +1,31 @@
+Codebook
+
+
+subject - participant number 1 - 30
+treatment
+  - walking
+  - walking upstairs
+  - walking downstairs
+  - laying
+  - sitting
+  - standing
+
+mean(): Mean value
+std(): Standard deviation
+
+TotalBodyAcc - Total body acceleration in given direction (Y, X or Z)
+TotalGravityAcc- Total gravity acceleration in given direction (Y, X or Z)
+TotalBodyAccJerk- Total body acceleration jerk (Y, X or Z)
+TotalBodyGyro- Total boxy gyroscopic movement (Y, X or Z)
+TotalBodyGyroJerk- Total body gyroscopic jerk movement (Y, X or Z)
+TotalBodyAccMag- Total Body Acceleration Magnitude (Y, X or Z)
+TotalGravityAccMag- Total Gravity Acceleration Magnitude (Y, X or Z)
+TotalBodyAccJerkMag- Total Body Acceleration Jerk Magnitude (Y, X or Z)
+TotalBodyGyroMag- Total Body Gyro Magnitude (Y, X or Z)
+TotalBodyGyroJerkMag- Total Body Gyro Jerk Magnitude (Y, X or Z)
+FrequencyBodyAcc-Frequency of Body Acceleration
+FrequencyBodyAccJerk- Frequency of Body acceleration Jerk (Y, X or Z)
+FrequencyBodyGyro- Frequency of Body Gyroscopic movement (Y, X or Z)
+FrequencyBodyAccMag- Frequency of Body Acceleration Magnitude (Y, X or Z)
+FrequencyBodyAccJerkMag- Frequency of Body Acceleration Jerk Magnitude (Y, X or Z)
+
